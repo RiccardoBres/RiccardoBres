@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm Riccardo Bresolin, an enthusiastic individual who immersed myself in the world of programming.<br><br>🔭 I’m currently working on honing my programming abilities through personal projects that encompass various technologies and methodologies.<br><br>🌱 I’m currently learning new programming languages, frameworks, and best practices to expand my knowledge and improve my project development process.<br><br>💬 Ask me about anything related to programming, project development, or collaborating on exciting projects!
+Hi there! I'm Riccardo Bresolin, an enthusiastic young man who recently joined the world of programming.<br><br>🔭 I’m currently working on honing my programming abilities through personal projects that encompass various technologies and methodologies.<br><br>🌱 I’m currently learning new programming languages, frameworks, and best practices to expand my knowledge and improve my project development process.<br><br>💬 Ask me about anything related to programming, project development, or collaborating on exciting projects!
 
 
 ## 🌐 Socials:
